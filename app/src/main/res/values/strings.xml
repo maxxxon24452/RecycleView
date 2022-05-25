@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="move_up">Move Up</string>
+    <string name="move_down">Move Down</string>
+    <string name="move_remove">Move Remove</string>
+    <string name="button_send">send</string>
+    <string name="plainText_message">message</string>
+    <string name="sign_in">google sign in</string>
+</resources>

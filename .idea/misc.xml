@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kirya/AndroidStudioProjects/RecycleView/app/src/main/res/layout/activity_main.xml" value="0.4015625" />
+        <entry key="..\:/Users/kirya/AndroidStudioProjects/RecycleView/app/src/main/res/layout/activity_main2.xml" value="0.3953846153846154" />
+        <entry key="..\:/Users/kirya/AndroidStudioProjects/RecycleView/app/src/main/res/layout/activity_messanger.xml" value="0.3953846153846154" />
+        <entry key="..\:/Users/kirya/AndroidStudioProjects/RecycleView/app/src/main/res/layout/activity_sugn_in.xml" value="0.3953846153846154" />
+        <entry key="..\:/Users/kirya/AndroidStudioProjects/RecycleView/app/src/main/res/layout/item_user.xml" value="0.4015625" />
+        <entry key="..\:/Users/kirya/AndroidStudioProjects/RecycleView/app/src/main/res/layout/message_list_item.xml" value="0.3943589743589744" />
+        <entry key="..\:/Users/kirya/AndroidStudioProjects/RecycleView/app/src/main/res/menu/main_menu.xml" value="0.3953846153846154" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
